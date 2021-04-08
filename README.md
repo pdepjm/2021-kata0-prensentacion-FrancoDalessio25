@@ -2,11 +2,14 @@
 
 ## Estudiante: Franco D'Alessio
 
-![mi foto](foto.jpeg)
-
 ### Descripición: 
 
 Hola! Soy Franco D'Alessio y me gusta mucho el futbol, tanto jugarlo como verlo. Soy de banfield y lo digo con mucho orgullo.
+
+
+![mi foto](foto.jpeg)
+
+
 
 
 
